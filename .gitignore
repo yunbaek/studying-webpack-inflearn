@@ -106,7 +106,7 @@ typings/
 
 ### svn_ignore template
 target
-build
+# build
 .classpath
 .project
 *.ipr
