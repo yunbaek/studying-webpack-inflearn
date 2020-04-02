@@ -1,4 +1,8 @@
+// ES6
 import _ from 'lodash';
+
+// ES5
+// let _ = require('lodash');
 
 function component() {
   let element = document.createElement('div');
